@@ -1,0 +1,14 @@
+{
+  "name": "openai-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "michael mcmasters",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.80.0"
+  }
+}
